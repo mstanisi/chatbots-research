@@ -1,0 +1,245 @@
+id,year,gpa,course,reliance,quality.of.education,copy.paste,dup.quality.of.eduation,stress,info.recall,chat.length,false.info,outdated,timesaved,grade.improved
+1,5th,Satisfactory,Theoretical Based;,45,1,3,2,1,3,5,3,No,65,30
+2,3rd,Very Good,Theoretical Based;,5,1,1,3,1,4,4,2,No,60,50
+3,4th,Very Good,Modeling Based;,60,1,4,2,1,4,3,4,No,80,70
+4,4th,Very Good,Programming Based;,10,1,5,2,2,5,2,5,Yes,50,0
+5,4th,Good,Theoretical Based;,90,1,3,1,1,1,2,3,No,80,50
+6,4th,Good,Modeling Based;,35,1,4,2,2,2,1,3,No,50,0
+7,4th,Good,Programming Based;,70,1,3,1,1,1,2,1,Yes,75,70
+8,4th,Good,Theoretical Based;,80,1,4,1,2,2,4,2,No,90,60
+9,4th,Very Good,Programming Based;,60,2,4,2,3,4,2,4,Yes,50,20
+10,3rd,Very Good,Theoretical Based;,80,1,3,1,1,1,5,4,No,60,80
+11,5th,Good,Theoretical Based;,70,2,3,3,3,2,2,2,Yes,60,60
+12,2nd,Very Good,Modeling Based;,0,3,2,2,2,2,1,2,Yes,50,0
+13,5th,Very Good,Programming Based:,10,3,4,3,3,2,3,2,No,60,50
+14,5th,Good,Theoretical Based;,15,3,3,5,2,5,2,5,Yes,50,10
+15,4th,Good,Mathematical Based;,50,3,1,2,2,2,2,2,Yes,89,80
+16,2nd,Very Good,Theoretical Based;,30,1,3,1,1,1,1,3,No,30,10
+17,5th,Good,Programming Based;,40,2,3,3,1,3,2,3,No,70,20
+18,4th,Good,Programming Based;,75,3,4,2,1,3,4,3,No,70,50
+19,4th,Good,Programming Based;,75,1,4,1,1,3,3,4,No,90,60
+20,4th,Excellent,Programming Based;,90,2,4,2,1,5,2,1,No,80,0
+21,5th,Good,Theoretical Based;,20,1,4,1,1,5,2,3,No,80,40
+22,5th,Very Good,Programming Based;,90,1,3,1,2,2,3,2,Yes,40,0
+23,2nd,Very Good,Theoretical Based;,30,4,3,3,3,4,5,5,No,5,0
+24,5th,Good,Programming Based;,70,1,4,1,2,2,5,3,No,70,50
+25,5th,Excellent,Programming Based;,5,4,3,5,2,5,3,4,No,73,20
+26,4th,Good,Mathematical Based;,70,1,2,1,3,1,4,5,No,90,60
+27,3rd,Excellent,Programming Based;,70,1,3,1,3,3,5,4,No,80,50
+28,3rd,Very Good,Theoretical Based;,50,2,3,2,1,1,2,1,No,70,25
+29,5th,Excellent,Programming Based;,70,1,3,1,1,2,3,2,No,100,20
+30,4th,Excellent,Programming Based;,25,1,5,2,3,3,4,5,No,75,0
+31,4th,Very Good,Mathematical Based;,40,3,4,2,2,3,4,1,No,60,20
+32,5th,Excellent,Mathematical Based;,0,5,5,4,4,5,1,1,No,40,0
+33,4th,Good,Theoretical Based;,30,1,3,1,3,2,3,2,No,75,50
+34,4th,Good,Theoretical Based;,50,3,4,2,1,2,1,1,No,70,50
+35,5th,Very Good,Theoretical Based;,10,3,3,4,4,5,1,3,Yes,0,0
+36,5th,Good,Programming Based;,70,1,3,3,3,2,1,5,No,70,80
+37,3rd,Very Good,Programming Based;,50,3,3,2,1,2,2,1,Yes,50,10
+38,4th,Very Good,Mathematical Based;,50,1,3,3,1,2,3,1,No,70,30
+39,3rd,Excellent,Theoretical Based;,80,4,1,5,5,3,4,2,No,60,20
+40,4th,Very Good,Modeling Based;,60,1,3,1,2,1,1,1,Yes,70,100
+41,3rd,Very Good,Theoretical Based;,20,2,3,2,2,4,5,2,No,80,20
+42,4th,Good,Theoretical Based;,70,1,3,1,1,1,1,2,No,50,0
+43,5th,Good,Programming Based;,60,2,5,2,2,2,3,5,No,30,30
+44,3rd,Excellent,Programming Based;,60,1,3,1,1,2,3,2,No,90,10
+45,3rd,Very Good,Programming Based;,60,2,3,1,1,1,5,3,Yes,70,40
+46,5th,Good,Theoretical Based;,50,2,3,2,2,3,2,1,No,50,0
+47,4th,Excellent,Theoretical Based;,25,2,3,2,1,3,2,3,No,50,50
+48,4th,Good,Theoretical Based;,30,1,5,2,2,2,2,2,No,20,10
+49,5th,Very Good,Theoretical Based;,25,3,4,2,3,4,2,3,No,40,10
+50,3rd,Very Good,Theoretical Based;,80,1,4,1,3,1,5,1,No,60,30
+51,4th,Good,Theoretical Based;,60,2,5,2,1,2,2,3,Yes,60,40
+52,5th,Very Good,Modeling Based;,60,1,2,1,2,2,3,2,Yes,70,60
+53,4th,Very Good,Theoretical Based;,40,3,3,2,4,2,3,2,Yes,60,0
+54,3rd,Good,Modeling Based;,90,1,1,1,1,1,2,1,No,90,90
+55,2nd,Excellent,Programming Based;,10,1,5,1,3,1,1,5,Yes,20,0
+56,2nd,Good,Programming Based;,10,4,5,4,3,4,1,5,No,15,0
+57,4th,Good,Programming Based;,80,1,3,2,1,2,2,1,No,90,30
+58,2nd,Excellent,Theoretical Based;,40,1,3,2,2,4,2,4,No,80,77
+59,3rd,Good,Modeling Based;,0,3,4,4,4,4,1,3,No,30,0
+60,2nd,Excellent,Modeling Based;,90,1,4,1,1,1,3,1,No,95,80
+61,1st,Very Good,Programming Based;,20,1,4,1,1,2,3,2,No,10,0
+62,4th,Very Good,Theoretical Based;,4,4,3,4,2,3,1,3,No,20,0
+63,5th,Good,Theoretical Based;,20,1,2,1,1,2,1,2,Yes,40,0
+64,4th,Very Good,Theoretical Based;,60,1,2,1,1,1,3,2,No,70,40
+65,4th,Very Good,Theoretical Based;,60,5,1,1,5,3,1,2,No,30,20
+66,2nd,Excellent,Theoretical Based;,40,3,2,3,3,3,5,5,Yes,35,20
+67,4th,Very Good,Theoretical Based;,20,3,3,2,1,3,2,2,Yes,50,0
+68,5th,Excellent,Theoretical Based;,30,3,5,3,2,3,1,5,Yes,50,0
+69,5th,Good,Programming Based;,70,2,2,2,1,1,1,3,Yes,60,70
+70,4th,Very Good,Programming Based;,70,3,3,3,2,3,2,3,Yes,75,60
+71,4th,Very Good,Theoretical Based;,60,2,5,2,2,3,2,3,No,50,0
+72,1st,Excellent,Theoretical Based;,20,4,3,5,5,5,1,3,No,10,0
+73,5th,Very Good,Modeling Based;,80,2,3,2,2,4,4,4,Yes,85,60
+74,5th,Excellent,Theoretical Based;,25,2,4,4,2,4,5,4,Yes,30,0
+75,5th,Good,Theoretical Based;,50,2,3,1,1,1,1,1,No,100,0
+76,2nd,Excellent,Mathematical Based;,80,1,1,2,2,2,2,2,Yes,70,40
+77,4th,Good,Theoretical Based;,75,3,4,2,1,2,4,2,No,80,50
+78,3rd,Good,Programming Based;,50,2,5,2,5,2,5,3,No,70,60
+79,4th,Very Good,Theoretical Based;,60,2,2,3,1,2,4,3,No,95,30
+80,5th,Very Good,Programming Based;,75,1,5,1,3,1,5,3,Yes,80,75
+81,4th,Excellent,Theoretical Based;,80,2,2,2,1,3,2,2,No,80,50
+82,4th,Very Good,Theoretical Based;,70,2,3,2,2,3,2,1,No,80,30
+83,5th,Satisfactory,Modeling Based;,50,1,3,2,1,1,2,2,No,50,25
+84,5th,Good,Theoretical Based;,60,2,3,3,2,2,3,3,Yes,40,28
+85,3rd,Very Good,Mathematical Based;,90,1,5,2,3,3,4,5,Yes,70,5
+86,1st,Excellent,Theoretical Based;,20,2,3,2,3,3,2,3,No,40,0
+87,4th,Satisfactory,Modeling Based;,100,1,4,1,2,3,3,3,No,80,100
+88,4th,Very Good,Programming Based;,30,3,5,5,3,3,1,3,No,40,20
+89,5th,Good,Mathematical Based;,50,2,3,2,2,2,2,2,No,50,50
+90,3rd,Satisfactory,Theoretical Based;,10,3,1,3,3,3,1,3,Yes,50,100
+91,4th,Excellent,Programming Based;,80,1,4,2,1,2,4,3,No,70,10
+92,5th,Excellent,Theoretical Based;,20,2,5,1,2,4,5,2,No,20,0
+93,4th,Satisfactory,Theoretical Based;,70,1,2,1,2,2,2,1,Yes,40,70
+94,4th,Very Good,Programming Based;,65,1,1,2,1,2,1,2,Yes,60,5
+95,3rd,Good,Theoretical Based;,70,1,1,1,1,2,2,2,Yes,70,60
+96,4th,Good,Theoretical Based;,20,3,1,3,2,3,1,2,No,80,10
+97,1st,Satisfactory,Theoretical Based;,99,1,1,1,1,1,1,1,Yes,99,99
+98,3rd,Very Good,Programming Based;,35,2,3,3,2,3,2,2,Yes,70,35
+99,4th,Very Good,Mathematical Based;,80,1,2,1,1,3,1,2,No,65,76
+100,3rd,Satisfactory,Programming Based;,90,1,2,1,2,1,2,2,No,60,50
+101,4th,Very Good,Theoretical Based;,70,1,3,3,2,4,2,1,No,50,65
+102,5th,Very Good,Theoretical Based;,60,2,4,2,2,2,2,5,Yes,40,30
+103,3rd,Excellent,Theoretical Based;,60,2,4,2,3,2,4,2,Yes,80,30
+104,4th,Good,Theoretical Based;,30,2,4,3,2,5,1,5,No,30,0
+105,5th,Good,Programming Based;,30,2,4,4,3,3,4,4,Yes,60,0
+106,4th,Very Good,Mathematical Based;,40,2,2,2,2,2,2,2,No,50,30
+107,4th,Good,Modeling Based;,30,2,4,2,1,2,3,3,Yes,60,10
+108,5th,Good,Theoretical Based;,70,2,1,4,2,3,5,3,Yes,80,70
+109,5th,Good,Theoretical Based;,60,1,3,2,1,2,3,2,No,80,40
+110,4th,Good,Theoretical Based;,60,1,3,1,3,2,3,3,No,90,30
+111,5th,Good,Modeling Based;,10,4,5,2,4,3,2,3,No,30,30
+112,5th,Very Good,Modeling Based;,30,2,1,2,2,3,1,2,Yes,25,50
+113,4th,Satisfactory,Mathematical Based;,78,3,4,3,3,2,3,2,No,32,66
+114,5th,Good,Mathematical Based;,50,1,2,3,2,2,2,3,No,50,40
+115,5th,Excellent,Theoretical Based;,10,4,5,4,5,4,3,5,Yes,5,0
+116,5th,Good,Theoretical Based;,60,1,4,2,2,2,4,3,No,70,30
+117,5th,Good,Mathematical Based;,45,1,3,2,5,3,1,5,Yes,60,0
+118,5th,Good,Mathematical Based;,80,4,4,5,5,4,3,2,Yes,65,28
+119,5th,Good,Theoretical Based;,30,2,4,2,1,4,1,3,Yes,40,10
+120,5th,Very Good,Theoretical Based;,60,2,3,3,1,2,1,1,No,80,50
+121,5th,Good,Mathematical Based;,30,2,3,2,2,2,2,2,Yes,40,30
+122,4th,Excellent,Theoretical Based;,35,4,5,4,1,5,2,4,No,55,0
+123,4th,Good,Mathematical Based;,80,2,2,1,1,1,2,3,Yes,50,70
+124,5th,Very Good,Theoretical Based;,40,1,5,1,2,1,3,2,Yes,50,50
+125,4th,Good,Modeling Based;,40,3,4,3,1,2,5,3,No,80,80
+126,5th,Very Good,Theoretical Based;,20,1,3,1,1,2,1,2,No,70,20
+127,5th,Very Good,Theoretical Based;,0,3,1,5,4,3,3,5,No,0,0
+128,5th,Good,Modeling Based;,60,2,4,3,2,2,4,2,No,40,20
+129,4th,Excellent,Theoretical Based;,10,5,5,4,4,5,1,3,No,40,0
+130,5th,Good,Mathematical Based;,20,1,5,1,1,2,3,4,No,20,90
+131,4th,Good,Modeling Based;,10,3,2,2,2,2,3,2,Yes,50,25
+132,5th,Good,Theoretical Based;,80,2,5,2,1,2,4,5,Yes,90,85
+133,5th,Very Good,Theoretical Based;,25,2,3,2,1,3,3,2,No,50,10
+134,5th,Good,Modeling Based:,60,2,3,3,3,2,2,2,Yes,73,55
+135,5th,Good,Mathematical Based;,20,2,5,3,3,3,1,3,No,20,20
+136,5th,Very Good,Mathematical Based;,50,1,5,1,2,3,1,3,Yes,60,50
+137,5th,Excellent,Programming Based;,10,4,4,4,4,5,2,4,No,10,15
+138,5th,Good,Modeling Based;,40,2,5,2,2,3,3,4,Yes,70,30
+139,5th,Good,Modeling Based;,80,1,3,2,2,3,2,2,No,70,25
+140,5th,Good,Theoretical Based;,60,5,2,5,5,4,4,4,Yes,50,20
+141,4th,Good,Programming Based;,90,1,4,1,1,3,5,1,No,100,100
+142,4th,Good,Modeling Based;,90,2,4,2,2,2,3,2,No,60,50
+143,4th,Good,Mathematical Based;,90,2,4,2,2,3,3,2,No,100,60
+144,5th,Good,Modeling Based;,40,2,2,2,2,3,2,2,No,78,18
+145,4th,Excellent,Theoretical Based;,10,5,5,5,2,2,1,1,No,10,0
+146,4th,Excellent,Mathematical Based;,0,3,3,3,3,3,1,1,No,0,0
+147,5th,Excellent,Modeling Based;,10,5,5,5,4,5,5,5,Yes,0,0
+148,4th,Very Good,Programming Based;,75,2,4,2,2,2,5,1,No,80,45
+149,5th,Excellent,Modeling Based;,10,5,5,5,4,5,5,5,Yes,0,0
+150,3rd,Very Good,Programming Based;,80,1,2,2,2,4,3,1,No,80,80
+151,4th,Good,Theoretical Based;,30,2,3,2,2,2,2,2,No,20,10
+152,4th,Good,Theoretical Based;,20,2,3,2,2,2,2,2,No,20,10
+153,3rd,Very Good,Programming Based;,95,1,5,1,1,1,2,1,No,90,30
+154,3rd,Very Good,Programming Based;,95,1,5,1,1,1,2,1,No,90,30
+155,1st,Very Good,Theoretical Based;,40,1,3,1,1,1,5,1,No,60,40
+156,5th,Excellent,Programming Based;,65,2,3,2,2,3,5,3,No,30,0
+157,5th,Excellent,Programming Based;,40,2,4,2,2,2,5,5,Yes,40,0
+158,3rd,Good,Programming Based;,70,1,1,1,1,1,1,1,Yes,70,50
+159,5th,Good,Modeling Based;,30,2,2,2,2,2,2,2,No,40,30
+160,5th,Good,Theoretical Based;,77,2,2,3,3,2,3,2,Yes,45,77
+161,5th,Excellent,Modeling Based;,0,3,3,3,3,3,3,3,No,0,0
+162,5th,Excellent,Modeling Based;,50,3,4,2,3,3,5,2,Yes,45,0
+163,3rd,Good,Modeling Based;,60,1,1,1,1,1,2,2,Yes,70,60
+164,5th,Excellent,Mathematical Based;,10,5,5,5,5,5,5,5,Yes,0,0
+165,5th,Satisfactory,Theoretical Based;,45,1,3,2,1,3,5,3,No,65,30
+166,3rd,Very Good,Theoretical Based;,5,1,1,3,1,4,4,2,No,60,50
+167,4th,Very Good,Theoretical Based;,10,1,5,2,2,5,2,5,Yes,50,0
+168,4th,Good,Theoretical Based;,35,1,4,2,2,2,1,3,No,50,0
+169,4th,Good,Theoretical Based;,70,1,3,1,1,1,2,1,Yes,75,70
+170,3rd,Very Good,Programming Based;,80,1,3,1,1,1,5,4,No,60,80
+171,5th,Very Good,Theoretical Based;,10,3,4,3,3,2,3,2,No,60,50
+172,5th,Good,Theoretical Based;,40,2,3,3,1,3,2,3,No,70,20
+173,4th,Good,Theoretical Based;,75,3,4,2,1,3,4,3,No,70,50
+174,5th,Good,Programming Based;,20,1,4,1,1,5,2,3,No,80,40
+175,5th,Very Good,Theoretical Based;,90,1,3,1,2,2,3,2,Yes,40,0
+176,2nd,Very Good,Modeling Based;,30,4,3,3,3,4,5,5,No,5,0
+177,4th,Good,Theoretical Based;,70,1,2,1,3,1,4,5,No,90,60
+178,4th,Excellent,Theoretical Based;,25,1,5,2,3,3,4,5,No,75,0
+179,4th,Very Good,Programming Based;,50,1,3,3,1,2,3,1,No,70,30
+180,3rd,Excellent,Theoretical Based;,60,1,3,1,1,2,3,2,No,90,10
+181,3rd,Very Good,Theoretical Based;,60,2,3,1,1,1,5,3,Yes,70,40
+182,4th,Excellent,Mathematical Based;,25,2,3,2,1,3,2,3,No,50,50
+183,5th,Very Good,Theoretical Based;,60,1,2,1,2,2,3,2,Yes,70,60
+184,4th,Good,Mathematical Based;,80,1,3,2,1,2,2,1,No,90,30
+185,2nd,Excellent,Mathematical Based;,40,1,3,2,2,4,2,4,No,80,77
+186,4th,Very Good,Programming Based;,4,4,3,4,2,3,1,3,No,20,0
+187,4th,Very Good,Modeling Based;,60,1,2,1,1,1,3,2,No,70,40
+188,4th,Very Good,Modeling Based;,60,5,1,1,5,3,1,2,No,30,20
+189,2nd,Excellent,Programming Based;,40,3,2,3,3,3,5,5,Yes,35,20
+190,4th,Very Good,Programming Based;,20,3,3,2,1,3,2,2,Yes,50,0
+191,5th,Good,Modeling Based;,70,2,2,2,1,1,1,3,Yes,60,70
+192,5th,Very Good,Theoretical Based;,80,2,3,2,2,4,4,4,Yes,85,60
+193,4th,Good,Programming Based;,75,3,4,2,1,2,4,2,No,80,50
+194,3rd,Good,Theoretical Based;,50,2,5,2,5,2,5,3,No,70,60
+195,5th,Very Good,Modeling Based;,75,1,5,1,3,1,5,3,Yes,80,75
+196,4th,Very Good,Modeling Based;,70,2,3,2,2,3,2,1,No,80,30
+197,5th,Satisfactory,Theoretical Based;,50,1,3,2,1,1,2,2,No,50,25
+198,3rd,Very Good,Theoretical Based;,90,1,5,2,3,3,4,5,Yes,70,5
+199,4th,Very Good,Theoretical Based;,30,3,5,5,3,3,1,3,No,40,20
+200,5th,Good,Modeling Based;,50,2,3,2,2,2,2,2,No,50,50
+201,3rd,Satisfactory,Programming Based;,10,3,1,3,3,3,1,3,Yes,50,100
+202,3rd,Good,Mathematical Based;,70,1,1,1,1,2,2,2,Yes,70,60
+203,1st,Satisfactory,Programming Based;,99,1,1,1,1,1,1,1,Yes,99,99
+204,4th,Very Good,Programming Based;,80,1,2,1,1,3,1,2,No,65,76
+205,5th,Very Good,Mathematical Based;,60,2,4,2,2,2,2,5,Yes,40,30
+206,3rd,Excellent,Modeling Based;,60,2,4,2,3,2,4,2,Yes,80,30
+207,4th,Good,Programming Based;,30,2,4,3,2,5,1,5,No,30,0
+208,4th,Very Good,Modeling Based;,40,2,2,2,2,2,2,2,No,50,30
+209,5th,Good,Mathematical Based;,70,2,1,4,2,3,5,3,Yes,80,70
+210,4th,Good,Programming Based;,60,1,3,1,3,2,3,3,No,90,30
+211,5th,Very Good,Programming Based;,30,2,1,2,2,3,1,2,Yes,25,50
+212,5th,Excellent,Modeling Based;,10,4,5,4,5,4,3,5,Yes,5,0
+213,5th,Good,Mathematical Based;,60,1,4,2,2,2,4,3,No,70,30
+214,5th,Very Good,Mathematical Based;,40,1,5,1,2,1,3,2,Yes,50,50
+215,4th,Good,Programming Based,40,3,4,3,1,2,5,3,No,80,80
+216,5th,Very Good,Modeling Based;,0,3,1,5,4,3,3,5,No,0,0
+217,4th,Excellent,Mathematical Based;,10,5,5,4,4,5,1,3,No,40,0
+218,5th,Good,Mathematical Based;,80,2,5,2,1,2,4,5,Yes,90,85
+219,5th,Good,Programming Based;,60,2,3,3,3,2,2,2,Yes,73,55
+220,5th,Good,Mathematical Based;,30,2,2,2,2,2,2,2,No,40,30
+221,5th,Good,Mathematical Based;,30,2,2,2,2,2,2,2,No,40,30
+222,5th,Satisfactory,Programming Based;,45,1,3,2,1,3,5,3,No,65,30
+223,3rd,Very Good,Programming Based;,5,1,1,3,1,4,4,2,No,60,50
+224,4th,Good,Modeling Based;,70,1,3,1,1,1,2,1,Yes,75,70
+225,4th,Good,Programming Based;,70,1,2,1,3,1,4,5,No,90,60
+226,4th,Very Good,Modeling Based;,50,1,3,3,1,2,3,1,No,70,30
+227,4th,Very Good,Mathematical Based;,60,5,1,1,5,3,1,2,No,30,20
+228,2nd,Excellent,Mathematical Based;,40,3,2,3,3,3,5,5,Yes,35,20
+229,5th,Good,Theoretical Based;,70,2,2,2,1,1,1,3,Yes,60,70
+230,5th,Very Good,Programming Based;,80,2,3,2,2,4,4,4,Yes,85,60
+231,3rd,Good,Modeling Based;,50,2,5,2,5,2,5,3,No,70,60
+232,3rd,Very Good,Modeling Based;,90,1,5,2,3,3,4,5,Yes,70,5
+233,1st,Satisfactory,Modeling Based;,99,1,1,1,1,1,1,1,Yes,99,99
+234,4th,Very Good,Modeling Based;,80,1,2,1,1,3,1,2,No,65,76
+235,3rd,Excellent,Mathematical Based;,60,2,4,2,3,2,4,2,Yes,80,30
+236,4th,Very Good,Theoretical Based;,40,2,2,2,2,2,2,2,No,50,30
+237,4th,Good,Modeling Based;,60,1,3,1,3,2,3,3,No,90,30
+238,4th,Good,Theoretical Based;,40,3,4,3,1,2,5,3,No,80,80
+239,5th,Good,Programming Based;,80,2,5,2,1,2,4,5,Yes,90,85
+240,4th,Good,Mathematical Based;,70,1,3,1,1,1,2,1,Yes,75,70
+241,5th,Good,Mathematical Based;,70,2,2,2,1,1,1,3,Yes,60,70
+242,3rd,Good,Mathematical Based;,50,2,5,2,5,2,5,3,No,70,60
+243,1st,Satisfactory,Mathematical Based;,99,1,1,1,1,1,1,1,Yes,99,99
+244,4th,Good,Mathematical Based;,60,1,3,1,3,2,3,3,No,90,30
